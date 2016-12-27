@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/007Cat24/chat-example.svg?branch=master)](https://travis-ci.org/007Cat24/chat-example)
 # chat-example
 
 This is the source code for a very simple chat example used for 
